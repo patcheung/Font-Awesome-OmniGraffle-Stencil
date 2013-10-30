@@ -9,7 +9,7 @@ Current Version of Stencil
 ==========================
 
 
-Font Awesome version 3.2.0
+Font Awesome version 4.0.1
 
 
 To Use
@@ -26,4 +26,5 @@ Credits
 
 Font Awesome Project: Dave Gandy | <a href="http://fontawesome.io">fontawesome.io</a>
 
-Font Awesome OmniGraffle Stencil Set: Pat Cheung | <a href="http://patcheung.com">patcheung.com</a>
+Original via Font Awesome OmniGraffle Stencil Set: Pat Cheung | <a href="http://patcheung.com">patcheung.com</a>
+Font Awesome 4.0.1 OmniGraffle Stencil Set: Eoin Brazil | <a href="http://eoinbrazil.com">eoinbrazil.com</a>
